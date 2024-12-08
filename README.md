@@ -9,7 +9,7 @@ The company wants to analyze and understand:
 - **Which variables are significant in predicting the demand for shared bikes?**
 - **How well those variables describe bike demand and profits?**
 
-## Business Goal
+## Business Goal:
 
 The primary objectives of this analysis are:
 
