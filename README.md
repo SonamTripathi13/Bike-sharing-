@@ -1,2 +1,2 @@
 # Bike-sharing
-author:Sonam Tripathi
+author:Sonam
