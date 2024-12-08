@@ -29,4 +29,4 @@ This project involves analyzing various data points to determine the key factors
 
 ## Technologies Used
 
-- **Python**: The primary programming language for data analysis and modeli
+- **Python**: The primary programming language for data analysis and modeling.
